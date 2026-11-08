@@ -1,0 +1,6 @@
+{
+  "name": "Onyx 3.0 - League of Legends Companion & Tracker",
+  "description": "High-performance liquid glass League of Legends match tracker, champion mastery analytics, live feed, and Riot Games API companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
